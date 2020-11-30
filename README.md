@@ -1,5 +1,5 @@
 # make_requirements
-Want to make a github repository but feeling lazy to make the requirements.txt file, which makes for a standard git repo.
+Want to make a python github repository but feeling lazy to make the requirements.txt file, which makes for a standard git repo.
 
 I got you covered just run this file in your command promt as:
 ```
